@@ -62,6 +62,7 @@ def details():
     message += "<html><body>"
     message += rest.id
     message +="</br>"
+    message +="</body></html>"
 
     return message
 
